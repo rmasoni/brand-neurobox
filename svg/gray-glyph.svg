@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="102px" height="146px" viewBox="0 0 102 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>gray-glyph</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-3" sketch:type="MSArtboardGroup" transform="translate(-47.000000, -46.000000)" fill="#666666">
+            <path d="M148,147 L100.311975,191.826744 L100.311975,147.949908 L124.82836,124.291793 L148,147 Z M95.7902355,191.878626 L48,147 L48,101.99708 L95.7902355,148.119921 L95.7902355,191.878626 Z M98,46 L148.253649,95.3235034 L97.9663087,143.907259 L47.7125767,95.3559264 L98,46 Z" id="gray-glyph" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

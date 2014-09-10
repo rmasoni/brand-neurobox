@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="102px" height="146px" viewBox="0 0 102 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>multicolor-glyph</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-3" sketch:type="MSArtboardGroup" transform="translate(-327.000000, -46.000000)">
+            <g id="multicolor-glyph" sketch:type="MSLayerGroup" transform="translate(328.000000, 46.000000)">
+                <path d="M47.7902355,145.878626 L0,101 L0,55.9970804 L47.7902355,102.119921 L47.7902355,145.878626 Z" id="Path" fill="#9675C3" sketch:type="MSShapeGroup"></path>
+                <path d="M50,0 L100.253649,49.3235034 L49.9663087,97.9072589 L-0.287423341,49.3559264 L50,0 Z" id="Path" fill="#B48DE8" sketch:type="MSShapeGroup"></path>
+                <path d="M100,101 L52.3119747,145.826744 L52.3119747,101.949908 L76.8283604,78.2917932 L100,101 Z" id="Path" fill="#725995" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
